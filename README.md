@@ -1,2 +1,2 @@
-# Proyecto-Sistemas-Digitales-II---Restaurante-la-Hueca-Guayaquile-a
-Sistemas digitales II
+# Proyecto-Sistemas-Digitales-II---Restaurante-la-Hueca-Guayaquilenia
+Sistemas digitales II - 1T_2018
